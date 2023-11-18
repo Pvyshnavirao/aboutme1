@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #b63f3f;
+    color: #b75151;
+    padding: 1rem;
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 2rem;
+}
+
+.main {
+    padding: 1rem;
+}
+
+.footer {
+    background-color: #ce3333;
+    color: #974141;
+    padding: 1rem;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 0.8rem;
+}
